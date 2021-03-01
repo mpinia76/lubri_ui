@@ -1,0 +1,5 @@
+<rasty specificationClass="Lubri\UI\layouts\LubriLoginMetroLayout" templateLocation="LubriLoginMetroLayout.htm">
+
+	<component id="footer" type="FooterLpnkf">
+	</component>
+</rasty>

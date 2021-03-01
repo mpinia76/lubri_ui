@@ -1,0 +1,10 @@
+<rasty specificationClass="Lubri\UI\pages\home\AdminMovimientos" templateLocation="pages/home/AdminMovimientos.htm">
+
+	<param name="layoutType" value="str:LubriHomeMetroLayout" />
+
+
+
+
+
+
+</rasty>

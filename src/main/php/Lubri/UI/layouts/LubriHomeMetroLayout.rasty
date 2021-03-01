@@ -1,0 +1,6 @@
+<rasty specificationClass="Lubri\UI\layouts\LubriHomeMetroLayout" templateLocation="LubriHomeMetroLayout.htm">
+
+	<param name="menuGroups" value="menuGroups" />
+	<component id="footer" type="FooterLubri">
+	</component>
+</rasty>

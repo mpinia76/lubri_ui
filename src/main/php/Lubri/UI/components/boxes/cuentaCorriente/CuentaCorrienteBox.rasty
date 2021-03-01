@@ -1,0 +1,5 @@
+<rasty specificationClass="Lubri\UI\components\boxes\cuentaCorriente\CuentaCorrienteBox" templateLocation="CuentaCorrienteBox.htm">
+
+	<param name="clienteOid" value="get:clienteOid" />
+
+</rasty>

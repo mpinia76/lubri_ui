@@ -1,0 +1,12 @@
+<rasty specificationClass="Lubri\UI\pages\productos\ProductosXLS" templateLocation="pages/productos/ProductosXLS.htm">
+
+	<param name="layoutType" value="str:LubriXLSLayout" />
+
+
+
+
+	 <component id="productosXLS" type="ProductosXLS">
+
+	</component>
+
+</rasty>

@@ -1,0 +1,12 @@
+<rasty specificationClass="Lubri\UI\pages\home\AdminHome" templateLocation="pages/home/AdminHome.htm">
+
+	<param name="layoutType" value="str:LubriHomeMetroLayout" />
+
+
+
+
+	<!-- <component id="ultimosMovimientosCaja" type="UltimosMovimientos">
+		<param name="cuenta" value="caja" />
+	</component> -->
+
+</rasty>
