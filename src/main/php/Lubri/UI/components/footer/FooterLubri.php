@@ -20,7 +20,7 @@ class FooterLubri extends RastyComponent{
 
 	protected function parseXTemplate(XTemplate $xtpl){
 
-
+        $xtpl->assign('year', date('Y'));
 	}
 
 }
